@@ -68,15 +68,6 @@
       "skills": [
         "./skills/discernment-nudge"
       ]
-    },
-    {
-      "name": "prompt-fieldtest",
-      "description": "Field-tests an instruction document by having agents build against it blind, audit what it caused, and clean up",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/prompt-fieldtest"
-      ]
     }
   ]
 }

@@ -2,7 +2,6 @@
 name: prompt-fieldtest
 description: Field-test an instruction document (a rule file, CLAUDE.md, an agent, another skill) by having a team of agents build against it blind, audit what it caused, and destroy the evidence. Use when asked to review, stress-test, validate or improve a prompt/rule/convention file in practice rather than by reading it.
 disable-model-invocation: true
-license: Complete terms in LICENSE.txt
 ---
 
 # Prompt field test
